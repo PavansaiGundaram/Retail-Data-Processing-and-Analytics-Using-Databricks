@@ -1,0 +1,2 @@
+# Retail-Data-Processing-and-Analytics-Using-Databricks
+This project demonstrates the processing and analysis of retail data using the Delta Lakehouse architecture. By implementing a robust data pipeline, data was ingested into Databricks and processed through three layers: Bronze, Silver, and Gold. Finally, the refined data was visualized and analyzed using Power BI to derive actionable insights.
