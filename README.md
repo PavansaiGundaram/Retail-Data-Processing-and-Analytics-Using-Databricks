@@ -1,7 +1,7 @@
 # Retail Data Processing and Analytics Using Delta Lakehouse Architecture
 
 ## Architecture Diagram
-![Data Engineering Architecture](path/to/architecture-image.png)  
+![Data Engineering Architecture](data/Blank diagram.png)  
 *Figure: Data Engineering Architecture using Delta Lakehouse*
 
 ---
