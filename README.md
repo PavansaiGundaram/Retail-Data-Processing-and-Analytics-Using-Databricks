@@ -1,7 +1,7 @@
 # Retail Data Processing and Analytics Using Delta Lakehouse Architecture
 
 ## Architecture Diagram
-![Data Engineering Architecture](data/Blank diagram.png)  
+![Data Engineering Architecture](https://github.com/PavansaiGundaram/Retail-Data-Processing-and-Analytics-Using-Databricks/blob/main/data/Blank%20diagram.png)
 *Figure: Data Architecture*
 
 ---
